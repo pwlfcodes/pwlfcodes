@@ -1,7 +1,7 @@
 ### Hi, i'm @pwlfcodes! 👋
 
-- 🔭 I’m currently working on some opensource ideas
-- 🌱 I’m currently learning to write comments
+- 🔭 I’m currently working on emulators
+- 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on everything
 - 📫 How to reach me: pwlfislive@gmail.com
 - 😄 Pronouns: He/Him
